@@ -1,0 +1,12 @@
+# 忽略所有 .log 文件
+*.log
+
+# 忽略 node_modules 文件夹
+/database/
+# 忽略 scriptbase 文件夹
+/ruoyi-fastapi-backend/assets/scriptbase
+# 忽略 logs 文件夹
+/logs/
+# 忽略 vf_admin 文件夹
+/vf_admin/
+

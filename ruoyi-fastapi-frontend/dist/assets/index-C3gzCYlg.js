@@ -1,0 +1,1 @@
+import{r as e,o as t,c as o,m as s}from"./index-BJmmq4s5.js";const a=s("div",null,"我是数据监控",-1),n=[a],l={__name:"index",setup(r){return e("/stage-api/druid/login.html"),(c,_)=>(t(),o("div",null,n))}};export{l as default};
